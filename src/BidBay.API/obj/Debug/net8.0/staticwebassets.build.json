@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xLXItWXjCl3JpY+cRtEuRyg1PPILb/c71VRQFPBhI5w=",
+  "Source": "BidBay.API",
+  "BasePath": "_content/BidBay.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
